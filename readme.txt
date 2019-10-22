@@ -4,7 +4,7 @@ Donate link: Eslam Mahmoud
 Tags: redirect, redirection, welcome page, landing page,  opt-in rate, optin rate, opt-in, opt-in-front-page,  eslam.me, optin,  email, email capture, email marketing,  marketing, contest landing page, conversion landing page, announcement, page, easy landing page, ebook landing page, email list, email optin landing page, free landing page, landing page, landing page templates, list building, music landing page, product landing page, video landing page, permalink redirect, Permalink Redirect WordPress Plugin, welcome page plugin wordpress, welcome redirect, wordpress redirection, WordPress Welcome Redirect Plugin
 Requires at least: 3.0.1
 Tested up to: 5.2.4
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 

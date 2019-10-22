@@ -8,7 +8,7 @@ namespace eslam\redirect;
 class Controller
 {
 
-  public $version = '2.0.0';
+  public $version = '2.1';
 
   public $slug = 'eslam_me_wordpress_redirect_to_landing_page';
 
@@ -67,19 +67,4 @@ class Controller
 		include($path);
   }
 
-  /**
-   * Redirect
-   * ---------------------------------------------
-   * @param $path | String/Int | url of post id
-   * @return false
-   * ---------------------------------------------
-   **/
-
-	// public function redirect($path) {
-
-	// 	if(is_numeric($path)){ $path = get_permalink($path); }
-	// 	wp_safe_redirect( $path );
-	// 	exit();
-
-  // }
 }
